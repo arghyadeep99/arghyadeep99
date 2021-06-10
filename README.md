@@ -33,9 +33,10 @@
 ---
 <h3>Github Streak :fire:</h3>
 <p align="center">
-<a href="">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arghyadeep99&theme=nightowl"></img>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=arghyadeep99&theme=nightowl"></img>
   </a>
+</p>
 
 ---
 
@@ -104,5 +105,10 @@
 
 ---
 
-### 🎵 :headphones: What I Listen To
-[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31jjxj4nl3whrmo634uns76bqjhi&width=400)](https://open.spotify.com/user/31jjxj4nl3whrmo634uns76bqjhi)
+### What I Listen To 🎵 :headphones:
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31jjxj4nl3whrmo634uns76bqjhi">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31jjxj4nl3whrmo634uns76bqjhi&width=400"></img>
+  </a>
+</p>
