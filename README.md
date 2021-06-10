@@ -31,8 +31,15 @@
 </p>
 
 ---
+<h3>Github Streak :fire:</h3>
+<p align="center">
+<a href="">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arghyadeep99&theme=nightowl"></img>
+  </a>
 
-<h2>📊 Github Stats</h2>
+---
+
+<h3>Github Stats 📊</h3>
 
 <p align="center">
 <a href="https://github.com/arghyadeep99">
@@ -51,7 +58,7 @@
 
 ---
 
-### 👨‍💻 Technologies Used
+### Technologies Used 👨‍💻
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" title="Python3"/>
@@ -97,5 +104,5 @@
 
 ---
 
-### 🎵 :headphones: What I Listen to:
+### 🎵 :headphones: What I Listen To
 [![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31jjxj4nl3whrmo634uns76bqjhi&width=400)](https://open.spotify.com/user/31jjxj4nl3whrmo634uns76bqjhi)
