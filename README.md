@@ -24,7 +24,7 @@
 <a href="https://twitter.com/arghyadeepdas99"><img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/arghyadeep.d/"><img height="30" src="https://img.shields.io/badge/facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/third_root_of_quadratic_eqn/"><img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
-<a href="mailto:arghyadeepp1899@gmail.com"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
+<a href="mailto:arghyadeep1899@gmail.com"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://t.me/tensor_overflow"><img height="30" src="https://img.shields.io/badge/telegram-blue?&style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;
 
 </p>
@@ -94,3 +94,8 @@
  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"title="Dart"/>
  <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="40" height="40" title="Android"/>
 </p>
+
+---
+
+### 🎵 :headphones: What I Listen to:
+[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31jjxj4nl3whrmo634uns76bqjhi&width=400)](https://open.spotify.com/user/31jjxj4nl3whrmo634uns76bqjhi)
