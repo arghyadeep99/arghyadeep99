@@ -1,17 +1,19 @@
 <p align="center">
-  <img src="https://github.com/arghyadeep99/arghyadeep99/blob/master/avatar.png" width="200px">
-  <br>
-  <p align=center>
+  <!--<img src="https://github.com/arghyadeep99/arghyadeep99/blob/master/avatar.png" width="200px">
+  <br>-->
+  <samp>
+    <br>
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/33197180/125737592-447b9a2b-cbdd-44d4-9e8b-a990e88cac29.gif?raw=true" width="380" height="280" />
+    👋 Hi! আমি <strong>Arghyadeep Das</strong>, a senior student in Computer Science and Engineering (CSE) with excellent academic background and diverse skillset. I am an incoming Technical Analyst at Barclays and former Lead Mentor of <a href="https://smlra-kjsce.github.io">Somaiya Machine Learning Research Association</a>. A strong PyTorch aficionado myself, I have a strong inclination for working with Machine Learning and Deep Learning. I have worked in the domain of Reinforcement Learning, Natural Language Processing, Computer Vision and Generative Models. Besides ML/DL, I am experienced in working with Python3, Java, C, Golang, Django, Flask, FasAPI, NodeJS, MongoDB and PostgreSQL.
+<p align=center>
     <img src="https://badges.pufler.dev/visits/arghyadeep99/arghyadeep99?color=black&logo=github" />
     <img src="https://komarev.com/ghpvc/?username=arghyadeep99&color=brightgreen" />
     <a href="https://github.com/arghyadeep99">
     <img src="https://badges.pufler.dev/commits/monthly/arghyadeep99?color=blue" />
     </a>
     </p>
-  <samp>
-    <br>
-    👋 Hi I'm <strong>Arghyadeep Das</strong>, a senior student in Computer Science and Engineering (CSE) with excellent academic background and diverse skillset. Currently, I am the Lead Mentor in Somaiya Machine Learning Research Association (SMLRA) and incoming Technical Analyst at Barclays. My interests are aligned with Machine Learning and Deep Learning. I am experienced in working with Python3, Deep Learning, Machine Learning, Django, Flutter, MongoDB, and PostgreSQL.
-    <br><br>
+    
+<br>
   </samp>
 </p>
 
@@ -26,6 +28,7 @@
 <a href="https://www.instagram.com/third_root_of_quadratic_eqn/"><img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
 <a href="mailto:arghyadeep1899@gmail.com"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://t.me/tensor_overflow"><img height="30" src="https://img.shields.io/badge/telegram-blue?&style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/31jjxj4nl3whrmo634uns76bqjhi"><img height="30" src="https://img.shields.io/badge/spotify-green?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;
 
 </p>
 </p>
