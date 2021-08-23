@@ -4,7 +4,7 @@
   <samp>
     <br>
   <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/33197180/125737592-447b9a2b-cbdd-44d4-9e8b-a990e88cac29.gif?raw=true" width="380" height="300" />
-    👋 Hi! আমি <strong>Arghyadeep Das</strong>, a senior student in Computer Science and Engineering (CSE) with excellent academic background, strong research interest and diverse skillset. I am an incoming Technical Analyst at Barclays and former Lead Mentor of <a href="https://smlra-kjsce.github.io">Somaiya Machine Learning Research Association</a>. A strong PyTorch aficionado myself, I have a strong inclination for working with Machine Learning and Deep Learning. I have worked in the domain of Reinforcement Learning, Natural Language Processing, Computer Vision and Generative Models. Besides ML/DL, I am experienced in working with Python3, Java, C, Golang, Django, Flask, FasAPI, NodeJS, MongoDB and PostgreSQL.
+    👋 Hi! আমি <strong>Arghyadeep Das</strong>, a senior student in Computer Science and Engineering (CSE) with excellent academic background, strong research interest and diverse skillset. I am a 2021 CVIT Summer School of AI Fellow and former Lead Mentor of <a href="https://smlra-kjsce.github.io">Somaiya Machine Learning Research Association</a>. A strong PyTorch aficionado myself, I have a strong inclination for working with Machine Learning and Deep Learning. I have worked in the domain of Reinforcement Learning, Natural Language Processing, Computer Vision and Generative Models. Besides ML/DL, I am experienced in working with Python3, Java, C, Golang, Django, Flask, FasAPI, NodeJS, MongoDB and PostgreSQL.
     
 <p align=center>
     <img src="https://badges.pufler.dev/visits/arghyadeep99/arghyadeep99?color=black&logo=github" />
