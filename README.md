@@ -74,10 +74,13 @@
 
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" title="PyTorch"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" title="TensorFlow"/>  
+  <img src="https://user-images.githubusercontent.com/33197180/131908148-17df8931-32ab-45fe-ba10-e665d271127e.png" alt="Weights & Biases" width="40" height="40" title="wandb"/>  
+
 
   <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40" title="Django"/>
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" title="Flask"/>
-  <img src="https://avatars1.githubusercontent.com/u/45109972?s=200&v=4" alt="streamlit" width="40" height="40" title="Streamlit"/>
+  <img src="https://user-images.githubusercontent.com/33197180/131907417-0c266b53-a1d5-4b7f-b60f-32b0b2cf231a.png" alt="streamlit" width="40" height="40" title="Streamlit"/>
+  <img src="https://user-images.githubusercontent.com/33197180/131907258-3844c124-b494-48f8-b834-59295c165ced.png" alt="fastapi" width="40" height="40" title="FastAPI"/>
   
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" title="MySQL"/>  
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40" title="PostgreSQL"/>
